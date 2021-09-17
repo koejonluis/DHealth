@@ -20,3 +20,5 @@ Larger projects often have sections on contributing to their project, in which c
 
 ## *License*: 
 NA Currently
+
+Version 1.0
