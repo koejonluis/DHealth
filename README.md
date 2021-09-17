@@ -14,7 +14,7 @@ Contributing: Larger projects often have sections on contributing to their proje
 
 Credits: 
 > blockquotedjdhfhfhhfhfhfh
-1. Ashley Soderlund (Ashley-Soderlund)
+1. Ashley Soderlund [Ashley Soderlund's Github Profile](https://github.com/Ashley-Soderlund)
 2. Akito Fujisawa
 3. Jon Luis Koe
 
