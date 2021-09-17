@@ -3,8 +3,8 @@ READMEs generally follow one format in order to immediately orient developers to
 
 Project name: Taken
 
-Description: A description of your project follows. A good description is clear, short, and to the point. Describe the importance of your project, and what it does.
-
+## *Description*: 
+A health software for personal use to set and to reach desired goals. It will be able to gather data from user’s daily meal/calorie intakes and display the information on a graph for user’s convenience. Users will be able to adjust their calorie intake to meet the goals they have set for themselves. All of the data will be stored in a database where users can access it at any time to change what they have inputted.  
 
 Installation: Installation is the next section in an effective README. Tell other users how to install your project locally. Optionally, include a gif to make the process even more clear for other people.
 
