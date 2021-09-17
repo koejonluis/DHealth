@@ -14,9 +14,9 @@ Contributing: Larger projects often have sections on contributing to their proje
 
 Credits: 
 > blockquotedjdhfhfhhfhfhfh
-1. Ashley Soderlund [Ashley Soderlund's Github Profile](https://github.com/Ashley-Soderlund)
-2. Akito Fujisawa
-3. Jon Luis Koe
+1. Ashley Soderlund [Github Profile](https://github.com/Ashley-Soderlund)
+2. Akito Fujisawa [Github Profile](https://github.com/Akito212)
+3. Jon Luis Koe [Github Profile](https://github.com/koejonluis)
 
 License: Finally, include a section for the license of your project. For more information on choosing a license, check out GitHub’s licensing guide!
 
